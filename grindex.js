@@ -1,2 +1,3 @@
 let selectedColors = ['green', 'pink'];
-console.log(selectedColors[1]);
+selectedColors[2] = 'violet';
+console.log(selectedColors);
