@@ -1,3 +1,5 @@
-let selectedColors = ['green', 'pink'];
-selectedColors[2] = 'violet';
-console.log(selectedColors.length);
+function greet(name){
+    console.log('Haii World, ' + name + '!!!!!');
+}
+
+greet('Figma');
