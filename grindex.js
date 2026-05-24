@@ -1,5 +1,5 @@
-function greet(name){
-    console.log('Haii World, ' + name + '!!!!!');
+function greet(name, lastName){
+    console.log('Haii ' + name + ' ' + lastName);
 }
 
-greet('Figma');
+greet('Figma', 'App');
