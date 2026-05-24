@@ -1,2 +1,7 @@
-//My first js code, hehe
-console.log('I am learning to JS');
+let name = 'chinaa🍧🍉';
+console.log(name);
+
+//a new comment, below is the new way of declaring a variable, that has multiple value.
+
+let firstName = 'chinaa🍧🍉';
+let lastName = 'Emmanuel';
