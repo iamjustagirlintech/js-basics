@@ -1,2 +1,4 @@
-const interestRate = 56.8;
-console.log(interestRate);
+let person = {
+    name: 'chinaa🍧🍉',
+    age: 2000
+};
